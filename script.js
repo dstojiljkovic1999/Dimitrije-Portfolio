@@ -140,11 +140,11 @@ if (footerElements.length > 0) {
 
 const galleryImages = {
   graficki: {
-    logo: ["Slike/Project/1.jpg", "Slike/project/2.jpg", "Slike/project/3.jpg", "Slike/project/4.jpg"],
-    vizitkarte: ["Slike/project/5.jpg", "Slike/project/6.jpg", "Slike/project/7.jpg", "Slike/project/8.jpg", "Slike/project/9.jpg", "Slike/project/10.jpg"],
-    pozivnice: ["Slike/project/11.jpg", "Slike/project/12.jpg", "Slike/project/13.jpg", "Slike/project/14.jpg", "Slike/project/15.jpg", "Slike/project/16.jpg", "Slike/project/17.jpg"],
-    webflajeri: ["Slike/project/18.jpg", "Slike/project/19.jpg", "Slike/project/20.jpg", "Slike/project/21.jpg", "Slike/project/22.jpg", "Slike/project/23.jpg", "Slike/project/24.jpg", "Slike/project/25.jpg", "Slike/project/26.jpg", "Slike/project/27.jpg", "Slike/project/28.jpg", "Slike/project/29.jpg", "Slike/project/30.jpg", "Slike/project/31.jpg", ],
-    itacademyvezbe:[ "Slike/project/32.jpg", "Slike/project/33.jpg", "Slike/project/34.jpg", "Slike/project/35.jpg", "Slike/project/36.jpg"]
+    logo: ["Slike/project/logo1.jpg", "Slike/project/logo2.jpg", "Slike/project/logo3.jpg", "Slike/project/logo4.jpg"],
+    vizitkarte: ["Slike/project/vizitka1.jpg", "Slike/project/vizitka2.jpg", "Slike/project/vizitka3.jpg", "Slike/project/vizitka4.jpg", "Slike/project/vizitka5.jpg", "Slike/project/vizitka6.jpg"],
+    pozivnice: ["Slike/project/pozivnica1.jpg", "Slike/project/pozivnica2.jpg", "Slike/project/pozivnica3.jpg", "Slike/project/pozivnica4.jpg", "Slike/project/pozivnica5.jpg", "Slike/project/pozivnica6.jpg", "Slike/project/pozivnica7.jpg"],
+    webflajeri: ["Slike/project/flajer1.jpg", "Slike/project/flajer2.jpg", "Slike/project/flajer3.jpg", "Slike/project/flajer4.jpg", "Slike/project/flajer5.jpg", "Slike/project/flajer6.jpg", "Slike/project/flajer7.jpg", "Slike/project/flajer8.jpg", "Slike/project/flajer9.jpg", "Slike/project/flajer10.jpg", "Slike/project/flajer11.jpg", "Slike/project/flajer12.jpg", "Slike/project/flajer13.jpg", "Slike/project/flajer14.jpg", ],
+    itacademyvezbe:[ "Slike/project/ita1.jpg", "Slike/project/ita2.jpg", "Slike/project/ita3.jpg", "Slike/project/ita4.jpg", "Slike/project/ita5.jpg"]
     
   },
   web: {
